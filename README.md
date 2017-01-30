@@ -4,8 +4,7 @@
 
 3. Sourav Dutta
 
-4.Divesh Sankhla
-5. Divyani soni
+4.Divesh Sankhl
 
 
 
