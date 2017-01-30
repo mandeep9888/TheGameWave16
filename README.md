@@ -4,20 +4,18 @@
 
 3. Sourav Dutta
 
-<<<<<<< HEAD
+
 4.Divesh Sankhla
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 5. Prem Prakash
 6.Abid Raza
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 84e612d237fdf29f00efc031042f9bdfa5356e80
+
 5. Divyani soni
-=======
+
 4.Divesh Sankhl
->>>>>>> 32ddc47fefad9ef4d749f96509990482760451aa
+
+
+6.manish tiwary
 
 
 
