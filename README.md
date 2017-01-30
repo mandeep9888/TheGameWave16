@@ -5,15 +5,15 @@
 3. Sourav Dutta
 
 4.Divesh Sankhla
-<<<<<<< HEAD
 5. Divyani soni
 
 
-4.Harneet Singh
-5.Divesh Sankhla
+
+4.Divesh Sankhla
+5.Harneet Singh
 6. Prem Prakash
 7.inderpreet singh
 8.Shryni
->>>>>>> b79f1715e9917bb9a368c9cc2a1c01c79851da5a
+
 
 8.Shryni
