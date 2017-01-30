@@ -37,7 +37,7 @@
 12.Murugavel
 13.Athul
 
-14.sheenam
+15.sheenam
 
 
 
@@ -51,7 +51,6 @@
 
 
 
-sheenam narula
 
 
 
@@ -60,15 +59,10 @@ sheenam narula
 
 
 
-=======
->>>>>>> 81bf1c47f7a80e7263709de15986c49552cce97c
+
 9. Abid Rizvi
 10. Abid Rizvi
 17.Abid
 18. Prakul
 19.Anupama
-<<<<<<< HEAD
->>>>>>> d16903872f887694b5f1eb7445ae931d3b29fb31
-=======
 20.lakhveer
->>>>>>> 0b2c029362c32e275c569b8b0fdad8e945168d90
