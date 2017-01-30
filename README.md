@@ -22,7 +22,6 @@
 
 
 
-sheenam narula
 
 
 
@@ -38,8 +37,7 @@ sheenam narula
 12.Murugavel
 13.Athul
 
-
-<<<<<<< HEAD
+14.sheenam
 
 
 
@@ -69,4 +67,8 @@ sheenam narula
 17.Abid
 18. Prakul
 19.Anupama
+<<<<<<< HEAD
 >>>>>>> d16903872f887694b5f1eb7445ae931d3b29fb31
+=======
+20.lakhveer
+>>>>>>> 0b2c029362c32e275c569b8b0fdad8e945168d90
